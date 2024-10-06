@@ -1,0 +1,1 @@
+Cellulose is a component of cells wells in plants and it's composed of long, unbranched chains of beta glucose which are joined together by hydrogen bond and they provide structural support in plant cell.

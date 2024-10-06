@@ -1,0 +1,1 @@
+Glycogen is the main energy storage molecules in animals and it's formed from many molecules of alpha glucose joined together by 1,4 and 1,6 glycosidic bonds. It has a large number of side branches meaning that glucose and therefore energy, can be released quickly. Moreover, it is a relatively large but compact molecule thus maximising the  amount of energy it can store

@@ -1,0 +1,7 @@
+[[rather cold, husband's social superior haughtily grandly and triumphantly]]
+[[I don't suppose for a moment that we can understand why the girl committed suicide - girls of that class]]
+[[She impertinently made use of our name... so I used my influence to have it refused]]
+[[claiming elaborate fine feelings and scruples... absurd in a girl of her position]]
+[[Go and look for the father of the child. It's his responsibility]]
+[[I did nothing I'm ashamed of]]
+[[He certainly didn't make me confess - I had done no more than my duty]]

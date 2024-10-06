@@ -1,0 +1,1 @@
+A component of haemoglobin which is an oxygen carrying molecule in red blood cells

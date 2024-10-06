@@ -1,0 +1,5 @@
+[[We are prepared.png]]
+[[blows full blast... pummels your house... strafes invisibly.png]]
+[[spits like a tame cat Turned savage.png]]
+[[Exploding comfortably down on the cliffs.png]]
+[[Strange, it is a huge nothing that we fear.png]]

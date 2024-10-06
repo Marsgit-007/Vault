@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61e2869a-cf2c-43b2-a76a-6a1f567f33df</dc:identifier>
+        <dc:title>The 4-Hour Work Week</dc:title>
+        <dc:creator opf:file-as="Ferriss, Timothy" opf:role="aut">Timothy Ferriss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-30T23:00:00+00:00</dc:date>
+        <dc:publisher>Ebury Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781407023007</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B006X0M2TS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>nonfiction</dc:subject>
+        <dc:subject>self-help</dc:subject>
+        <dc:subject>kindle</dc:subject>
+        <meta name="calibre:timestamp" content="2024-08-26T14:48:08+00:00"/>
+        <meta name="calibre:title_sort" content="4-Hour Work Week, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

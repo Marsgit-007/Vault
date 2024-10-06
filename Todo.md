@@ -1,0 +1,7 @@
+- [ ] Spanish speaking questions
+- [ ] Medicine trumpcards
+- [ ] 100 hour easter lit
+- [ ] 100 hour easter lang
+- [x] cognito + exam qs
+- [ ] 100 hour easter history
+- [ ] daily anki 

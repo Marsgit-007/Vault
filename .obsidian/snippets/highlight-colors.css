@@ -1,0 +1,52 @@
+/*
+    highlight-colors.css snippet
+
+    Add some colors to the <mark> element in a compatible manner,
+    auto-adjusting to light & dark themes.
+
+    Usage:
+      <mark>something</mark> → yellow (as usual)
+      <mark class="yellow">something</mark> → same yellow
+      <mark class="green">something</mark> → green
+      <mark class="red">something</mark> → red
+      <mark class="blue">something</mark> → blue
+
+    2021-06-07 Matthias C. Hormann (Moonbase59)
+*/
+
+.theme-light, .theme-dark {
+    /* override built-in */
+    --text-highlight-bg: rgba(255, 242, 0, 0.4) !important;
+    --text-highlight-bg-active: rgba(255, 128, 0, 0.4) !important;
+    /* define our new ones */
+    --text-highlight-bg-yellow: rgba(255, 242, 0, 0.4);
+    --text-highlight-bg-green: rgba(8, 255, 0, 0.4);
+    --text-highlight-bg-red: rgba(255, 0, 17, 0.4);
+    --text-highlight-bg-blue: rgba(0, 183, 255, 0.4);
+  }
+  
+  
+  /* I hate !important but it’s needed for themes like Obsidian Nord etc. */
+  
+  mark, mark.yellow {
+    background-color: var(--text-highlight-bg-yellow) !important;
+  }
+  
+  mark.green {
+    background-color: var(--text-highlight-bg-green) !important;
+  }
+  
+  mark.red {
+    background-color: var(--text-highlight-bg-red) !important;
+  }
+  
+  mark.blue {
+    background-color: var(--text-highlight-bg-blue) !important;
+  }
+  
+  /* Special hack for Discordian theme */
+  mark {
+    -webkit-box-shadow: unset !important;
+    box-shadow: unset !important;
+    padding: unset !important;
+  }

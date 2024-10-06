@@ -1,0 +1,5 @@
+[[spools of suffering set out in ordered rows.png]]
+[[twist before his eyes... a half-formed ghost.png]]
+[[The reader's eyeballs prick... Between the bath and pre-lunch beers.png]]
+[[to fields which don't explode beneath the feet of running children in the nightmare heat.png]]
+[[A hundred agonies in back and white.png]]

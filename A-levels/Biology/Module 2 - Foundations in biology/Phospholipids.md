@@ -1,0 +1,1 @@
+In phospholipids one of the fatty acids of a triglyceride is substituted by a phosphate containing group. Phosphate heads are hydrophilic and the tails are hydrophobic and as a result phospholipids form micelles when they are in contact with water as heads are on the outside as they are attracted to water and tails on the inside as they move away from water.

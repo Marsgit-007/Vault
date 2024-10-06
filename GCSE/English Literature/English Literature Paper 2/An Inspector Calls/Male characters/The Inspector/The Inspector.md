@@ -1,0 +1,8 @@
+[[(an impression of massiveness, solidity and purposefulness)]]
+[[(the lighting should be pink and intimate, until the Inspector arrives and then it should be harder and brighter)]]
+[[young women counting their pennies in the dingy little back bedroom]]
+[[It's better to ask for the earth than to take it (inspector)|If you don't come down sharply on these people they would soon be asking for the earth (Mr Birling) It's better to ask for the earth than to take it (inspector)]]
+[[Public men, Mr Birling, have responsibilities as well as privileges]]
+[[There are millions and millions and millions of Eva Smiths and John Smiths]]
+[[We don't live alone. We are members of one body. We are responsible for each other]]
+[[fire and blood and anguish]]

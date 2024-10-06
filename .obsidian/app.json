@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "trashOption": "system",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./"
+}

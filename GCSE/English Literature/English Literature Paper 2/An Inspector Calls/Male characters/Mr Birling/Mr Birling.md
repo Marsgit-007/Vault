@@ -1,0 +1,8 @@
+[[a hard-headed practical man of business]]
+[[Crofts and Birlings... working together - for lower costs and higher prices]]
+[[If you don't come down sharply on these people they would soon be asking for the earth]]
+[[The Titanic... unsinkable, absolutely unsinkable... war is inevitable... fiddlesticks!]]
+[[you'd think everybody has to look after everybody else... like bees in a hive - community and all that nonsense]]
+[[The whole story's just a lot of moonshine]]
+[[Look at the pair of them - the famous younger generation who know it all. And they can't even take a joke]]
+[[Look you better ask Gerald for the ring you gave back to him, hadn't you. Then you will feel better]]

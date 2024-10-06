@@ -1,0 +1,6 @@
+[[(in his early twenties, not quite at ease, half shy, half assertive)]]
+[[Why shouldn't they try for higher wages We try for the highest possible prices]]
+[[I was in that state when a chap easily turns nasty... And that's when it happened]]
+[[I wasn't in love with her or anything... she was pretty and a good sport]]
+[[you killed her - and the child she'd have had too - my child - your own grandchild]]
+[[(Shouting) And I say the girl's dead and we all helped to kill her - and that's what matters]]

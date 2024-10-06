@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "1a38284dcd4daf1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ac30efc1afcf35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99865731a9c14561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a11aa7d940b445ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "87a7ebef3bd341af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ffd32324475d187",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2db8df31e52a1a9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "959d64e358450664",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "fd362099db2a14b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "90758c5effe59107",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee2c57d2a16895d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0604a54038361db1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bdffbb768356b31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "448e266dae4f460c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md"
+              }
+            }
+          },
+          {
+            "id": "a97ff750f40cb2d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "b141e4440ad5f4fe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9744c2ade23aabd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "99865731a9c14561",
+  "lastOpenFiles": [
+    "Vault/README.md",
+    "Vault",
+    "README.md",
+    "A-levels/Chemistry/Book/OCR a Level Salters Advanced Chemistry Student Book (University of York Staff) (Z-Library).pdf",
+    "A-levels/Chemistry/Book",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.2. Biological Molecules.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Biological molecules tests.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Starch test.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Emulsion test.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Biuret test.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Benedict's test.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/non-reducing sugars.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Module 2 definitions.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/reducing sugars.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.2. Biological Molecules.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/Module 2 definitions.md",
+    "test/this is a test.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Untitled.md",
+    "test",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003085900.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Monosaccharides.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Carbohydrates.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Monomers and polymers.md",
+    "A-levels/Biology/Module 1 - Development of practical skills in biology/Module 1 - Development of practical skills in biology.md",
+    "A-levels/Biology/Biology.md",
+    "A-levels/Biology/Module 3 - Exchange and transport/Module 3 - Exchange and transport.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Proteins.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Inorganic ions.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Phosphate ions.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Sodium ions.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/iron ions.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/hydrogen ions.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091641.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091308.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091144.png",
+    "A-levels/Biology/Module 1 - Development of practical skills in biology/PAG 03 - Sampling Techniques .pdf",
+    "A-levels/Biology/Module 1 - Development of practical skills in biology/PAG 01 - Microscopy.pdf",
+    "A-levels/Biology/Module 1 - Development of practical skills in biology/PAG 05 - Colorimeter OR Potometer.pdf",
+    "A-levels/Biology/Module 1 - Development of practical skills in biology/PAG 04 - Rates of Enzyme Controlled Reactions.pdf",
+    "GCSE/History/Trump card medicine set all chron plus audio/Slide1.PNG",
+    "GCSE/History/Trump card medicine set all chron plus audio/Slide2.PNG",
+    "GCSE/Pasted image 20240207220806.png",
+    "GCSE/Pasted image 20240207220208.png",
+    "GCSE/English Literature/English Literature Paper 2/The poetry anthology/IMAGES/Sneer of cold command.png",
+    "GCSE/English Literature/English Literature Paper 2/The poetry anthology/IMAGES/but let the daylight break through capitals and monoliths.png",
+    "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/rotten orange/Rotten orange Extract.canvas",
+    "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/Untitled.canvas",
+    "GCSE/English Literature/Paper 1/Much ado about nothing/Merry war extract.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
