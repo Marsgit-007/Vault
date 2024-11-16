@@ -1,0 +1,1 @@
+Is a vesicle containing digestive enzymes bound by a single membrane

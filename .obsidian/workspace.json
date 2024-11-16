@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f4ac30efc1afcf35",
+        "id": "aa2e7726f21ac7a8",
         "type": "tabs",
         "children": [
           {
-            "id": "99865731a9c14561",
+            "id": "a96417f5328bb783",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Module 5 - Communication, homeostasis and energy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Module 5 - Communication, homeostasis and energy"
             }
           },
           {
@@ -105,7 +111,9 @@
                 "file": "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Module 5 - Communication, homeostasis and energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Module 5 - Communication, homeostasis and energy"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +136,9 @@
               "type": "outline",
               "state": {
                 "file": "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Module 5 - Communication, homeostasis and energy.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Module 5 - Communication, homeostasis and energy"
             }
           },
           {
@@ -138,7 +150,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -146,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -156,7 +172,9 @@
               "type": "file-properties",
               "state": {
                 "file": "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Module 5 - Communication, homeostasis and energy.md"
-              }
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Module 5 - Communication, homeostasis and energy"
             }
           }
         ],
@@ -179,45 +197,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99865731a9c14561",
+  "active": "a96417f5328bb783",
   "lastOpenFiles": [
-    "A-levels/Chemistry/08.Oceans/Oceans.md",
-    "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Definitions - Module 5 Biodiversity, Evolution and Disease - OCR (A) Biology A-Level.pdf",
-    "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Module 5 - Communication, homeostasis and energy.md",
-    "A-levels/Biology/Module 4 - Biodiversity, evolution and disease/Module 4 - Biodiversity, evolution and disease.md",
-    "A-levels/Biology/Module 4 - Biodiversity, evolution and disease/Definitions - Module 4 Biodiversity, Evolution and Disease - OCR (A) Biology A-Level.pdf",
-    "A-levels/Biology/Module 3 - Exchange and transport/Module 3 - Exchange and transport.md",
-    "A-levels/Biology/Module 3 - Exchange and transport/Definitions - Module 3 Exchange and Transport - OCR (A) Biology A-Level.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pilie.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
-    "A-levels/Biology/Module 1 - Development of practical skills in biology/Module 1 - Development of practical skills in biology.md",
-    "A-levels/Biology/Biology.md",
-    "A-levels/A-levels.md",
-    "A-levels/Chemistry/Chemistry.md",
-    "A-levels/Chemistry/Practical skills/Practical skills.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Prokaryotic cells.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Prokaryotic cell diagram.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241116150043.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pili.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Flagellum.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Plasmid.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/capsule.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/prokaryotic cell wall.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Protein transport.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Eukaryotic cells.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/cytoskeleton.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/lysosomes.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/ribosomes.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Centrioles.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Mitochondria.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Golgi apparatus.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Smooth endoplasmic reticulum.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Rough endoplasmic reticulum.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Proteins.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Structure of proteins.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.2. Biological Molecules.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/nucleus.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/ultrastructure.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241116144234.png",
+    "A-levels/Chemistry/Book/OCR a Level Salters Advanced Chemistry Student Book (University of York Staff) (Z-Library).pdf",
+    "A-levels/Chemistry/Book",
+    "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Definitions - Module 5 Biodiversity, Evolution and Disease - OCR (A) Biology A-Level.pdf",
+    "A-levels/Biology/Module 4 - Biodiversity, evolution and disease/Definitions - Module 4 Biodiversity, Evolution and Disease - OCR (A) Biology A-Level.pdf",
+    "A-levels/Biology/Module 3 - Exchange and transport/Definitions - Module 3 Exchange and Transport - OCR (A) Biology A-Level.pdf",
     "A-levels/Chemistry/10.Colour by design/Notes - Storyline 10 Colour by Design - OCR (B) Chemistry A-level.pdf",
     "A-levels/Chemistry/09.Developing metals/Notes - Storyline 9 Developing Metals - OCR (B) Chemistry A-level.pdf",
     "A-levels/Chemistry/08.Oceans/Notes - Storyline 8 Oceans - OCR (B) Chemistry A-level.pdf",
     "A-levels/Chemistry/07.Polymers and life/Notes - Storyline 7 Polymers and Life - OCR (B) Chemistry A-level.pdf",
-    "A-levels/Chemistry/06.The chemical industry/Notes - Storyline 6 The Chemical Industry - OCR (B) Chemistry A-level.pdf",
-    "A-levels/Chemistry/05.What's in a medicine/Notes - Storyline 5 What's in a Medicine - OCR (B) Chemistry A-level.pdf",
-    "A-levels/Chemistry/04.The ozone story/Notes - Storyline 4 The Ozone Story - OCR (B) Chemistry A-level.pdf",
-    "Todo.md",
-    "Vault/README.md",
-    "README.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/2.2. Biological Molecules.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Biological molecules tests.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Starch test.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Emulsion test.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Biuret test.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Benedict's test.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/non-reducing sugars.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/reducing sugars.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Module 2 definitions.md",
-    "test/this is a test.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Untitled.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003085900.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Monosaccharides.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Carbohydrates.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091641.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091308.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091144.png",
@@ -225,8 +244,6 @@
     "GCSE/History/Trump card medicine set all chron plus audio/Slide2.PNG",
     "GCSE/Pasted image 20240207220806.png",
     "GCSE/Pasted image 20240207220208.png",
-    "GCSE/English Literature/English Literature Paper 2/The poetry anthology/IMAGES/Sneer of cold command.png",
-    "GCSE/English Literature/English Literature Paper 2/The poetry anthology/IMAGES/but let the daylight break through capitals and monoliths.png",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/rotten orange/Rotten orange Extract.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/Untitled.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/Merry war extract.canvas",

@@ -1,0 +1,1 @@
+are usually oval shaped, bound by a double membrane called the envelope. The inner membrane is folded to form projections called cristae with matrix on the inside containing all the enzymes needed for [[respiration]]

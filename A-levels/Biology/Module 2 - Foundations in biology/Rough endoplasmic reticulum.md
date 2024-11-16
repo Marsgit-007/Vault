@@ -1,0 +1,1 @@
+A series of flattened sacs enclosed by a membrane with [[ribosomes]] on the surface. RER folds and processes [[Proteins]] made on the [[ribosomes]]

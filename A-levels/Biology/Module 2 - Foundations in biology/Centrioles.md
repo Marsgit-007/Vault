@@ -1,0 +1,1 @@
+are hollow cylinders containing a ring of [[microtubules]] arranged at right angles to each other. Centrioles are involved in [[cell division]]

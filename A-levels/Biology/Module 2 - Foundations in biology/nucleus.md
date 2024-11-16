@@ -1,0 +1,1 @@
+is surrounded by a double membrane called the envelope containing pores which enable molecules to enter and leave the nucleus. the nucleus also contains chromatin and nucleolus which is the site of ribosome production.

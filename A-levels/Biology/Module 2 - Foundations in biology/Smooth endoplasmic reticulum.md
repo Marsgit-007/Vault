@@ -1,0 +1,1 @@
+is a system of membrane bound sacs. SER produces and processes [[Lipids]]

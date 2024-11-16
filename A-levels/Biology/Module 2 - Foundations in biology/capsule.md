@@ -1,0 +1,1 @@
+protective slimy layer which helps the cell to retain moisture and adhere to surfaces

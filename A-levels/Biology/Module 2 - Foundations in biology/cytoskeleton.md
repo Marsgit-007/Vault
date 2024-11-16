@@ -1,0 +1,1 @@
+Plays an important role in providing mechanical strength as well as aiding transport within cells and enabling cell movement

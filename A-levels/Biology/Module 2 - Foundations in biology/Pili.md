@@ -1,0 +1,1 @@
+Hair like structures which attach to other bacterial cells
