@@ -1,0 +1,4 @@
+Adenine
+Cytosine
+Guanine
+Uracil

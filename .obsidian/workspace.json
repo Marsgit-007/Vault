@@ -4,17 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2e7726f21ac7a8",
+        "id": "093e098b2423528a",
         "type": "tabs",
         "children": [
           {
-            "id": "a96417f5328bb783",
+            "id": "2ab352132a5588f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "A-levels/Chemistry/01.Elements of life/Chemical bonds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemical bonds"
+            }
+          },
+          {
+            "id": "6ae0b7b42996a1a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-levels/Chemistry/01.Elements of life/Ionic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ionic"
+            }
+          },
+          {
+            "id": "816a34b5fda6f9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-levels/Chemistry/01.Elements of life/Physical properties of ionic compounds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical properties of ionic compounds"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "95a7b15b7a8bfe83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9bc50f0e336ae75",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A-levels/Chemistry/01.Elements of life/Atomic Structure - Ionic, Covalent and Metallic Bonding, Lattices, Charge and Electronegativity.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Atomic Structure - Ionic, Covalent and Metallic Bonding, Lattices, Charge and Electronegativity"
             }
           }
         ]
@@ -73,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "fd362099db2a14b4",
@@ -191,42 +243,52 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a96417f5328bb783",
+  "active": "816a34b5fda6f9d1",
   "lastOpenFiles": [
-    "A-levels/Biology/Module 2 - Foundations in biology/Pilie.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Prokaryotic cells.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Prokaryotic cell diagram.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241116150043.png",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119191145.png",
+    "A-levels/Chemistry/01.Elements of life/Ionic.md",
+    "A-levels/Chemistry/01.Elements of life/Physical properties of ionic compounds.md",
+    "A-levels/Chemistry/01.Elements of life/Giant ionic lattices.md",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190722.png",
+    "A-levels/Chemistry/01.Elements of life/Predicting the charge on an ion.md",
+    "A-levels/Chemistry/01.Elements of life/Some common ions.md",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190550.png",
+    "A-levels/Chemistry/01.Elements of life/Complex ions.md",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190527.png",
+    "A-levels/Chemistry/01.Elements of life/Simple ions.md",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190456.png",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190431.png",
+    "A-levels/Chemistry/01.Elements of life/Ionic bonding examples.md",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190405.png",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190244.png",
+    "A-levels/Chemistry/01.Elements of life/Chemical bonds.md",
+    "A-levels/Chemistry/01.Elements of life/Types of bond.md",
+    "A-levels/Chemistry/01.Elements of life/Atomic Structure - Ionic, Covalent and Metallic Bonding, Lattices, Charge and Electronegativity.md",
+    "A-levels/Chemistry/01.Elements of life/Formation of ions from atoms.md",
+    "A-levels/Chemistry/01.Elements of life/Negative ions.md",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119190010.png",
+    "A-levels/Chemistry/01.Elements of life/electron affinity.md",
+    "A-levels/Chemistry/01.Elements of life/Positive ions.md",
+    "A-levels/Chemistry/01.Elements of life/ionisation energy.md",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119185721.png",
+    "A-levels/Chemistry/01.Elements of life/Pasted image 20241119185629.png",
+    "A-levels/Chemistry/01.Elements of life/Physical bonds.md",
+    "A-levels/Chemistry/01.Elements of life/Atomic Structure - Ionic, Covalent and Metallic Bonding, Lattices, Charge and Electronegativity.pdf",
+    "A-levels/Chemistry/01.Elements of life/Elements of life.md",
+    "A-levels/A-levels.md",
+    "A-levels/Chemistry/Chemistry.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Steps of semi conservative replication.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Types of replication.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Transcription.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Protein synthesis.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.3. Nucleotides and Nucleic Acids.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.3. Nucleotides and Nucleic Acids.pdf",
     "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.pdf",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pili.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Flagellum.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Plasmid.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/capsule.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/prokaryotic cell wall.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Protein transport.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Eukaryotic cells.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/cytoskeleton.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/lysosomes.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/ribosomes.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Centrioles.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Mitochondria.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Golgi apparatus.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Smooth endoplasmic reticulum.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Rough endoplasmic reticulum.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Proteins.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Structure of proteins.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/2.2. Biological Molecules.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/nucleus.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/ultrastructure.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241116144234.png",
     "A-levels/Chemistry/Book/OCR a Level Salters Advanced Chemistry Student Book (University of York Staff) (Z-Library).pdf",
     "A-levels/Chemistry/Book",
     "A-levels/Biology/Module 5 - Communication, homeostasis and energy/Definitions - Module 5 Biodiversity, Evolution and Disease - OCR (A) Biology A-Level.pdf",
@@ -234,16 +296,6 @@
     "A-levels/Biology/Module 3 - Exchange and transport/Definitions - Module 3 Exchange and Transport - OCR (A) Biology A-Level.pdf",
     "A-levels/Chemistry/10.Colour by design/Notes - Storyline 10 Colour by Design - OCR (B) Chemistry A-level.pdf",
     "A-levels/Chemistry/09.Developing metals/Notes - Storyline 9 Developing Metals - OCR (B) Chemistry A-level.pdf",
-    "A-levels/Chemistry/08.Oceans/Notes - Storyline 8 Oceans - OCR (B) Chemistry A-level.pdf",
-    "A-levels/Chemistry/07.Polymers and life/Notes - Storyline 7 Polymers and Life - OCR (B) Chemistry A-level.pdf",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003085900.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091641.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091308.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241003091144.png",
-    "GCSE/History/Trump card medicine set all chron plus audio/Slide1.PNG",
-    "GCSE/History/Trump card medicine set all chron plus audio/Slide2.PNG",
-    "GCSE/Pasted image 20240207220806.png",
-    "GCSE/Pasted image 20240207220208.png",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/rotten orange/Rotten orange Extract.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/Untitled.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/Merry war extract.canvas",

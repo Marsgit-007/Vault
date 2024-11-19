@@ -1,0 +1,2 @@
+Adenine --> Thymine
+Guanine --> Cytosine
