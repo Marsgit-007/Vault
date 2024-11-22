@@ -1,4 +1,4 @@
 + [[Ionic]] (or electrovalent)
-+ Covalent
-+ Dative covalent (or COORDINATE)
++ [[Covalent]]
++ [[Dative covalent]] (or COORDINATE)
 + Metallic

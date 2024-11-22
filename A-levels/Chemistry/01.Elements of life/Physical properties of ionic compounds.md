@@ -1,4 +1,4 @@
-*Melting point* - **Very high** - A large amount of energy must be put in to overcome the strong electrostatic attractions and separate the ions
+ *Melting point* - **Very high** - A large amount of energy must be put in to overcome the strong electrostatic attractions and separate the ions
 
 *Strength* - **Very brittle** - An dislocation leads to layers moving and similarly charged ions being next to each other. The repulsion splits the crystal
 
