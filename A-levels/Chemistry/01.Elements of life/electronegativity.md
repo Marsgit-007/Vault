@@ -1,0 +1,1 @@
+The ability o an atom to attract the pair of electrons in a covalent bond to itself
