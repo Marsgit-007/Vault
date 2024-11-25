@@ -5,4 +5,5 @@
 
 [[Covalent bond formation]]
 [[Covalent bonding examples]]
-
+[[Giant covalent lattices (covalent networks)]]
+[[Molecular solids]]

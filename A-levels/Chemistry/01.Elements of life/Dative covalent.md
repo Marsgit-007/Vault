@@ -4,3 +4,4 @@
 + donor species will have lone pairs in their outer shells
 + acceptor species will be short of their "octet" or maximum
 [[Dative covalent bonding examples]]
+[[Fajan's rules]]
