@@ -1,0 +1,1 @@
+Transport large particles and bulk transport. the particles are enclosed in vesicles made from the cell surface membrane and transported into the cell by endocytosis. In exocytosis, vesicles containing large particles are fused with the cell surface membrane

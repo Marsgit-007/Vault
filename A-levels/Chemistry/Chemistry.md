@@ -1,4 +1,6 @@
 [[chemistry specification.pdf]]
+[[chemistry textbook]]
+
 [[Practical skills]]
 Storylines:
 + [[01.Elements of life]]

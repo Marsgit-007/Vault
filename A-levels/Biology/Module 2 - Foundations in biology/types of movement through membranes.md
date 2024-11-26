@@ -1,0 +1,5 @@
+[[Diffusion]]
+[[Facilitated diffusion]]
+[[Osmosis]]
+[[Active transport]]
+[[exocytosis]]

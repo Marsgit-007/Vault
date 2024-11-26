@@ -1,0 +1,2 @@
+Can transport all types of molecules through [[carrier proteins]] from an area of low concentration to an area of high concentration. However, this process requires energy in the form of [[ATP]]
+![[Pasted image 20241126184258.png]]
