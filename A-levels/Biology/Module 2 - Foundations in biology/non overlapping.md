@@ -1,0 +1,1 @@
+each triplet is only read once and triplets don't share any bases

@@ -1,4 +1,4 @@
-During transcription, a molecule of mRNA is made in the [[nucleus]]:
+ During transcription, a molecule of mRNA is made in the [[nucleus]]:
 
 + [[Hydrogen bonds]] between the complementary bases break and DNA uncoils thus separating the 2 strands
 + One of the [[DNA]] strands is used as a template by RNA polymerase to make the mRNA molecule, the DNA template is called the antisense strand
