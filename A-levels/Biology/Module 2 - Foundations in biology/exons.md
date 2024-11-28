@@ -1,0 +1,1 @@
+sections of [[DNA]] that code for [[Proteins]]

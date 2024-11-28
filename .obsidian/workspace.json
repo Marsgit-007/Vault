@@ -34,27 +34,23 @@
               "icon": "lucide-file",
               "title": "Roles of membranes at surface"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "714a901ecd2ac9ec",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "9c7b9f400a6d7946",
+            "id": "7d8c6379a02244be",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "A-levels/Biology/Biology Textbook/Biology book 1/Module 2.pdf"
+                "file": "A-levels/Biology/Biology Textbook/Biology book 1/Biology book 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Module 2"
+              "icon": "lucide-file",
+              "title": "Biology book 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "fd362099db2a14b4",
@@ -254,15 +249,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a01bc196d1445144",
+  "active": "7d8c6379a02244be",
   "lastOpenFiles": [
-    "A-levels/Biology/Module 2 - Foundations in biology/2.5. Biological Membranes.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Roles of membranes at surface.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/fluid mosaic model.md",
+    "A-levels/Biology/Biology Textbook/Biology book 1/Bio skills 1.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 2.pdf",
+    "A-levels/Biology/Biology Textbook/Biology book 1/Module 1.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Biology book 1.md",
     "A-levels/Biology/Biology Textbook/Biology Textbook.md",
     "A-levels/Biology/Biology.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Genetic code.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/exons.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/introns.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Roles of membranes at surface.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.5. Biological Membranes.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/fluid mosaic model.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
     "A-levels/Biology/Module 1 - Development of practical skills in biology/Module 1 - Development of practical skills in biology.md",
     "A-levels/Chemistry/Chemistry.md",
@@ -275,7 +275,6 @@
     "A-levels/Chemistry/chemistry textbook/OC.pdf",
     "A-levels/Chemistry/chemistry textbook/ES.pdf",
     "A-levels/Chemistry/chemistry textbook/EL.pdf",
-    "A-levels/Chemistry/chemistry textbook/DM.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 2/Biology book 2.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Diffusion.md",
     "A-levels/Biology/Module 2 - Foundations in biology/rate of gas exchange.md",
@@ -292,12 +291,8 @@
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126183637.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Phospholipids.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126183420.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Genetic code.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Dispersive replication.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Types of replication.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Conservative replication.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Steps of semi conservative replication.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/DNA replication.md",
     "A-levels/Chemistry/01.Elements of life/Pasted image 20241125153104.png",
     "A-levels/Chemistry/01.Elements of life/Pasted image 20241125152707.png",
     "A-levels/Chemistry/01.Elements of life/Pasted image 20241125152331.png",
