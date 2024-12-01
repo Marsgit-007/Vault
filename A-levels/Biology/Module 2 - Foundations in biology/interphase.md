@@ -1,0 +1,1 @@
+during this stage the cell grows and then prepares to divide - [[chromosomes]] and some organelles are replicated, chromosomes also begin to condense

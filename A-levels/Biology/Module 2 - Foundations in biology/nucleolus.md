@@ -1,0 +1,1 @@
+Does not have a membrane around it. It contains [[RNA]]

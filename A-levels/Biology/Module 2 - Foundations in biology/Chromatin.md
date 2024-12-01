@@ -1,0 +1,1 @@
+The genetic material consisting of [[DNA]] wound around [[histone proteins]]. When the cell is not dividing, chromatin is spread out or extended. When the cell is about to divide, chromatin condenses and coils tightly into [[chromosomes]]. These make up nearly all the organism's genome

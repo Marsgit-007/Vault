@@ -1,0 +1,1 @@
+The [[chromosomes]] move to the equator and attach to the spindle fibres via centromeres
