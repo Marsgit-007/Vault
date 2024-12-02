@@ -2,8 +2,7 @@ All living organisms are made of cell, there are several different types of cell
 
 Parts of the cells:
 [[nucleus]]
-[[Rough endoplasmic reticulum]]
-[[Smooth endoplasmic reticulum]]
+[[endoplasmic reticulum]]
 [[Golgi apparatus]]
 [[Mitochondria]]
 [[Chloroplasts]]
@@ -11,5 +10,7 @@ Parts of the cells:
 [[Centrioles]]
 [[ribosomes]]
 [[lysosomes]]
-[[Cillia and undulipodia]]
+[[Cilia and undulipodia]]
 [[cytoskeleton]]
+[[Cellulose cell wall]]
+[[cytoplasm]]

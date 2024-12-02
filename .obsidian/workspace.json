@@ -4,84 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a450c73e983fd44d",
+        "id": "9ed97e09332dbc8d",
         "type": "tabs",
-        "dimension": 35.66576086956522,
         "children": [
           {
-            "id": "098ad2badaed0e9a",
+            "id": "1b98ca21c2c1038d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Module 2 - Foundations in biology"
-            }
-          },
-          {
-            "id": "4c72e551f1214a16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.1. Cell Structure"
-            }
-          },
-          {
-            "id": "2b252aea6080b367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-levels/Biology/Module 2 - Foundations in biology/Eukaryotic cells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eukaryotic cells"
-            }
-          },
-          {
-            "id": "76c92cc3927294fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-levels/Biology/Module 2 - Foundations in biology/Cillia and undulipodia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cillia and undulipodia"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "31bcd3b6471559ca",
-        "type": "tabs",
-        "dimension": 64.33423913043478,
-        "children": [
-          {
-            "id": "02baa3facb136d54",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A-levels/Biology/Biology Textbook/Biology book 1/Module 2_1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Module 2_1"
+              "title": "New tab"
             }
           }
         ]
@@ -115,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cell wall",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -284,54 +218,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76c92cc3927294fe",
+  "active": "1b98ca21c2c1038d",
   "lastOpenFiles": [
     "A-levels/Biology/Module 2 - Foundations in biology/Eukaryotic cells.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Cillia and undulipodia.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/lysosomes.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Vacuole.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Prokaryotic cells.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/cell wall.md",
+    "A-levels/Biology/Biology Textbook/Biology book 1/Module 2_1.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/Cellulose cell wall.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202063057.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/cytoskeleton.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202063042.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202063027.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202063012.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Centrioles.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062940.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Chloroplasts.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062925.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062916.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Mitochondria.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062857.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062850.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Golgi apparatus.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/glycoproteins.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062837.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Smooth endoplasmic reticulum.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/endoplasmic reticulum.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Rough endoplasmic reticulum.md",
     "A-levels/Biology/Module 2 - Foundations in biology/nucleus.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/chromosomes.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Chromatin.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/nucleolus.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/nuclear membrane.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/nuclear envelope.md",
+    "A-levels/Biology/Biology Textbook/Biology book 1/Module 1.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/cytoplasm.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Cellulose.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/motor proteins.md",
     "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Protein transport.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Proteins.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
-    "A-levels/Biology/Biology Textbook/Biology book 1/Biology book 1.md",
-    "A-levels/Biology/Biology Textbook/Biology book 1/Module 2_1.pdf",
-    "A-levels/Biology/Biology Textbook/Biology Textbook.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/2.6. Cell Division, Cell Diversity and Cellular Organisation.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/Cilia and undulipodia.md",
     "A-levels/Biology/Module 2 - Foundations in biology/2.6. Cell Division, Cell Diversity and Cellular Organisation.md",
+    "A-levels/Biology/Module 1 - Development of practical skills in biology/Module 1 - Development of practical skills in biology.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Cell cycle.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/3 stages of cell cycle.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/four stages of mitosis.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241201143937.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/ribosomes.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/nuclear envelope.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/lysosomes.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.6. Cell Division, Cell Diversity and Cellular Organisation.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Bio skills 1.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 4.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 3.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 2.pdf",
-    "A-levels/Biology/Biology Textbook/Biology book 1/Module 1.pdf",
     "A-levels/Chemistry/chemistry textbook/Chem skills.pdf",
     "A-levels/Chemistry/chemistry textbook/CD.pdf",
     "A-levels/Chemistry/chemistry textbook/WM.pdf",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126184258.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126184127.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126184103.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126183839.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126183637.png",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241126183420.png",
-    "A-levels/Chemistry/01.Elements of life/Pasted image 20241125153104.png",
-    "A-levels/Chemistry/01.Elements of life/Pasted image 20241125152707.png",
-    "A-levels/Chemistry/01.Elements of life/Pasted image 20241125152331.png",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/rotten orange/Rotten orange Extract.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/Untitled.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/Merry war extract.canvas",

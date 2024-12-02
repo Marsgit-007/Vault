@@ -1,0 +1,9 @@
+| Structure                                                                                                             | Function                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| The cell wall of plants is on the outside of the [[plasma membrane]]. It is made from bundles of [[Cellulose]] fibres | Absent from animals cells, the cell wall is strong and can prevent plant cells from bursting when turgid (swollen). |
+|                                                                                                                       | The cell walls of plants:                                                                                           |
+|                                                                                                                       | provide strength and support                                                                                        |
+|                                                                                                                       | maintain the cell's shape                                                                                           |
+|                                                                                                                       | contribute to the strength and support of the whole plant                                                           |
+|                                                                                                                       | are permeable and allow solutions to pass through                                                                   |
+![[Pasted image 20241202063057.png]]
