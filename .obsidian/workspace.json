@@ -4,17 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed97e09332dbc8d",
+        "id": "c818bbf7883d0b7a",
         "type": "tabs",
+        "dimension": 22.690217391304348,
         "children": [
           {
-            "id": "1b98ca21c2c1038d",
+            "id": "dfb3237815eef5c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Module 2 - Foundations in biology"
+            }
+          },
+          {
+            "id": "7dd4efc93b8fea1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-levels/Biology/Module 2 - Foundations in biology/Protein transport.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protein transport"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7954931972c9eed5",
+        "type": "tabs",
+        "dimension": 77.30978260869566,
+        "children": [
+          {
+            "id": "6e8be0e9208c8657",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A-levels/Biology/Biology Textbook/Biology book 1/Module 2_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Module 2_1"
             }
           }
         ]
@@ -69,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,10 +256,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b98ca21c2c1038d",
+  "active": "7dd4efc93b8fea1c",
   "lastOpenFiles": [
-    "A-levels/Biology/Module 2 - Foundations in biology/Eukaryotic cells.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/protein transport diagram.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202210805.png",
+    "A-levels/Biology/Module 2 - Foundations in biology/Protein transport.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.md",
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 2_1.pdf",
+    "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
+    "A-levels/Biology/Biology Textbook/Biology book 1/Module 2_2.pdf",
+    "A-levels/Biology/Biology Textbook/Biology book 1/Biology book 1.md",
+    "A-levels/Biology/Biology Textbook/Biology Textbook.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/2.6. Cell Division, Cell Diversity and Cellular Organisation.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Cell cycle.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/3 stages of cell cycle.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/mitosis.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/four stages of mitosis.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Cellular organisation.md",
+    "A-levels/Biology/Module 2 - Foundations in biology/Eukaryotic cells.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Cellulose cell wall.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202063057.png",
     "A-levels/Biology/Module 2 - Foundations in biology/cytoskeleton.md",
@@ -237,7 +289,6 @@
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062857.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062850.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Golgi apparatus.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Pasted image 20241202062837.png",
     "A-levels/Biology/Module 2 - Foundations in biology/Smooth endoplasmic reticulum.md",
     "A-levels/Biology/Module 2 - Foundations in biology/endoplasmic reticulum.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Rough endoplasmic reticulum.md",
@@ -245,18 +296,6 @@
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 1.pdf",
     "A-levels/Biology/Module 2 - Foundations in biology/cytoplasm.md",
     "A-levels/Biology/Module 2 - Foundations in biology/Cellulose.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/motor proteins.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/2.1. Cell Structure.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Protein transport.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Proteins.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Module 2 - Foundations in biology.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Cilia and undulipodia.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/2.6. Cell Division, Cell Diversity and Cellular Organisation.md",
-    "A-levels/Biology/Module 1 - Development of practical skills in biology/Module 1 - Development of practical skills in biology.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/Cell cycle.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/ribosomes.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/nuclear envelope.md",
-    "A-levels/Biology/Module 2 - Foundations in biology/lysosomes.md",
     "A-levels/Biology/Module 2 - Foundations in biology/2.6. Cell Division, Cell Diversity and Cellular Organisation.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Bio skills 1.pdf",
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 4.pdf",
@@ -264,7 +303,6 @@
     "A-levels/Biology/Biology Textbook/Biology book 1/Module 2.pdf",
     "A-levels/Chemistry/chemistry textbook/Chem skills.pdf",
     "A-levels/Chemistry/chemistry textbook/CD.pdf",
-    "A-levels/Chemistry/chemistry textbook/WM.pdf",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/rotten orange/Rotten orange Extract.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/extracts/Untitled.canvas",
     "GCSE/English Literature/Paper 1/Much ado about nothing/Merry war extract.canvas",
