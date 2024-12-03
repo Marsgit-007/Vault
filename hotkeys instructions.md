@@ -1,1 +1,0 @@
-https://forum.obsidian.md/t/compatible-highlighting-with-more-colors-and-fast/19378

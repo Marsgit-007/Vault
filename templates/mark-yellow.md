@@ -1,1 +1,0 @@
-<mark class="yellow"><% tp.file.selection() %></mark>
