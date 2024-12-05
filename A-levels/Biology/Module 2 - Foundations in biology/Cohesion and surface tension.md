@@ -1,0 +1,3 @@
+Strong cohesion between molecules enables effective transport of water in tube-like transport cells as the strong cohesion supports columns of water. As a result of strong cohesion the surface tension at the water air boundary is high
+
+A drop of water on a flat surface does not spread out, but can look almost spherical due to hydrogen bonding between the molecules which pulls them together. The water molecules at the surface are all hydrogen bonded to the molecules beneath them and hence more attracted to the water molecules beneath than the air molecules above. This means and surface of the water contracts and gives the surface of the water the ability to resist forced applied to it. 

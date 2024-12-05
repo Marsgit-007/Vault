@@ -1,0 +1,2 @@
+[[condensation reaction]]
+[[hydrolysis]]

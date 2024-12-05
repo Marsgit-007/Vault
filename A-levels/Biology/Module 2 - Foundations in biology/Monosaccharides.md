@@ -1,3 +1,5 @@
-Glucose is a monosaccharide containing 6 carbon atoms in each molecule, it is the main substrate for respiration therefore it si fo great importantce. It has 2 isomers - alpha and beta glucose with the following structures.
+The simples of carbohydrates. They are particularly important in living things as a source of energy. they are well suited to this role because of the large number of carbon-hydrogen bonds. They are [[sugars]] which taste sweet, are soluble in [[water]] and are soluble in non polar solvents
 
-![[Pasted image 20241003085900.png]]
+[[glucose]]
+[[ribose]]
+[[deoxyribose]]

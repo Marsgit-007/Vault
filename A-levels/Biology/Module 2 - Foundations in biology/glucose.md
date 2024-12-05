@@ -1,0 +1,2 @@
+[[α glucose]]
+[[β glucose]]

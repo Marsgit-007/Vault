@@ -1,0 +1,1 @@
+Bacteria also have cell walls, but they are not made of cellulose. The whole structure surrounding it is called peptidoglycan, made from long polysaccharide chains that lie in parallel, cross-linked by short peptide chains (made from [[Amino acids]])

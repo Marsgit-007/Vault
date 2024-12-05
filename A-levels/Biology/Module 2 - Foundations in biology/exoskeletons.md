@@ -1,0 +1,1 @@
+Insect and crustacean exoskeletons are made from chitin. It differs from cellulose because it has an acetylamino group (NHOCCH3) rather than a hydroxyl group on carbon 2. It forms cross-links between long parallel chains of acetylglucosamine, in a similar way to cellulose
