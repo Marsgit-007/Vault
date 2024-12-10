@@ -1,0 +1,2 @@
+Is a steroid alcohol - a type of [[Lipids]] which is not made from glycerol or fatty acids. It consists of 4 carbon based rings or isoprene units. Cholesterol is a small and hydrophobic molecule, which means it can sit in the middle of the hydrophobic part of the bilayer. It regulates the fluidity of the membrane, preventing it from becoming too fluid or stiff. 
+![[Pasted image 20241210184157.png]]

@@ -1,0 +1,2 @@
+Amino acids contain an amino group - NH2, carboxylic acid group and a variable R group which is a carbon-containing chain. There are 20 different amino acids with different R groups.
+![[Pasted image 20241116160458.png]]

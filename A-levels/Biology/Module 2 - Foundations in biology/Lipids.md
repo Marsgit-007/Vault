@@ -4,6 +4,7 @@ Lipids are biological molecules which are only soluble in organic solvents such 
 [[Unsaturated lipids]]
 [[Triglyceride]]
 [[Phospholipids]]
-
+[[cholesterol]]
+[[stigmasterol]]
 
 
