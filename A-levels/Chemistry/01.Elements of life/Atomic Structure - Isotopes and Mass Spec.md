@@ -1,0 +1,10 @@
+[[Atomic number]]
+[[Mass number]]
+![[Pasted image 20241217200617.png]]
+[[Relative atomic mass]]
+[[Relative isotopic mass]]
+[[Relative molecular Mass (Mr)]]
+[[Relative formula mass]]
+
+[[Isotopes]]
+[[Mass spectrometer]]
