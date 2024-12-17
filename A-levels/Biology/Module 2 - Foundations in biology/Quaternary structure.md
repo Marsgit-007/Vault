@@ -1,0 +1,1 @@
+Many proteins are made up of more than one polypeptide chain. The quaternary structure describes how multiple polypeptide chains are arranged to make the complete protein molecule. This may be held together with the same types of bond that hold the [[tertiary structure]] together. 

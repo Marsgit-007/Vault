@@ -1,0 +1,1 @@
+has a relatively long, thin structure, is insoluble in [[Water]] and metabolically inactive, often having a structural role within an organism

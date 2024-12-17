@@ -6,11 +6,6 @@
       "items": [
         {
           "type": "file",
-          "ctime": 1732605522440,
-          "path": "A-levels/Biology/Module 2 - Foundations in biology/Genetic code.md"
-        },
-        {
-          "type": "file",
           "ctime": 1732646382149,
           "path": "A-levels/Biology/Module 2 - Foundations in biology/Facilitated diffusion.md"
         },
@@ -18,6 +13,16 @@
           "type": "file",
           "ctime": 1732646595213,
           "path": "A-levels/Biology/Module 2 - Foundations in biology/Active transport.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734327623273,
+          "path": "A-levels/Biology/Module 2 - Foundations in biology/Fibrous proteins.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1734327640189,
+          "path": "A-levels/Biology/Module 2 - Foundations in biology/globular proteins.md"
         }
       ],
       "title": "toimprove"
