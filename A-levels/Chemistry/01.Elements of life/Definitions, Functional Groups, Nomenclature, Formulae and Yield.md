@@ -2,3 +2,4 @@ Organic chemistry is a vast subject so is split into small sections for study Th
 
 [[Catenation]]
 [[Homologous series]]
+[[use of different formulae in organic chemistry]]
