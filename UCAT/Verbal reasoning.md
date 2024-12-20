@@ -1,7 +1,5 @@
+This section is about quickly (but accurately!) reading through the passage and extracting important and relevant information. This section is designed to test your reading comprehension and analysis skills and your ability to draw conclusions from the information presented in the passage
 
-| DOs                                                                                                              | DON'Ts |
-| ---------------------------------------------------------------------------------------------------------------- | ------ |
-| Read question first                                                                                              |        |
-| Identify key words in question                                                                                   |        |
-| Then skim read the passage whilst looking for those key words                                                    |        |
-| Pay special attention to names, dates, places, people, numbers, shifts in thinking, changes, increases/decreases |        |
+[[VB Dos and DON'Ts]]
+[[VB Time saving]]
+[[VB rules]]

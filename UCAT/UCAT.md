@@ -1,10 +1,9 @@
 [[UCAT NOTES by KharmaMedic.pdf]]
 [[How to prepare for UCAT]]
 
-| Section                    | Questions | Timing  | Scoring  |
-| -------------------------- | --------- | ------- | -------- |
-| [[Verbal reasoning]]       | 44        | 21 mins | 300-900  |
-| [[Decision making]]        | 29        | 31 mins | 300-900  |
-| [[Quantitative reasoning]] | 36        | 25 mins | 300-900  |
-| [[Abstract reasoning]]     | 50        | 12 mins | 300-900  |
-| [[Situational judgement]]  | 66        | 26 mins | Band 1-4 |
+| Section                    | Questions | Timing  | Time per question | Scoring  |
+| -------------------------- | --------- | ------- | ----------------- | -------- |
+| [[Verbal reasoning]]       | 44        | 22 mins | 30 sec            | 300-900  |
+| [[Decision making]]        | 35        | 37 mins | 63 sec            | 300-900  |
+| [[Quantitative reasoning]] | 36        | 26 mins | 43 sec            | 300-900  |
+| [[Situational judgement]]  | 69        | 26 mins | 22 sec            | Band 1-4 |
