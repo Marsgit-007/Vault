@@ -1,0 +1,1 @@
+rate of reaction increases up to the [[optimum temperature]]. Rate of reaction decreases above the optimum temperature

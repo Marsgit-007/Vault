@@ -1,0 +1,5 @@
+[[every round rips through his life.png]]
+[[End of story, except not really.png]]
+[[his blood shadow stays... the drink and the drugs won't flush him out.png]]
+[[he's here in my head when I close my eyes, dug in behind enemy lines.png]]
+[[One of my mates goes by and tosses his guts back into his body.png]]

@@ -1,0 +1,1 @@
+Used to test for [[Proteins]]. Firstly, a sample of the solution is placed in a test tube and subsequently, an equal amount of NaOH is added. Afterwards, a few drops of dilute copper (II) sulphate solution is added and gently mixed. In the presence of a protein, the solution turns lilac as an indicator of peptide bonds. In the absence of protein, the solution remains blue. 

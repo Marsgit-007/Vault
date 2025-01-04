@@ -1,0 +1,5 @@
+[[Bandage up me eye with my own history.png]]
+[[Mary Seacole as a healing star... a yellow sunrise.png]]
+[[I carving out me identity.png]]
+[[dem tell me.png]]
+[[Dem tell me bout de dish ran away with de spoon but dem never tell me bout Nanny de maroon.png]]

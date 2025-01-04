@@ -1,0 +1,1 @@
+ the order and number of amino acids in a protein. The number and order of amino acids in a protein chain is important, as changing just one amino acid can alter the function of the protein![[Pasted image 20241214212455.png]]

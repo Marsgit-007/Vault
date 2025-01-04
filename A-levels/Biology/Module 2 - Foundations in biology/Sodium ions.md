@@ -1,0 +1,1 @@
+Involved in co-transport of [[glucose]] and amino acids

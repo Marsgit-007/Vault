@@ -1,0 +1,3 @@
++ Follow clear logic. Write down some phrases that help you simplify the complicated situations given to you in each passage e.g. "if the table is black then it must have a white chair however, if the table is green but with a yellow book, it must have a green chair" can be simplified as "Bt -> Wc" and Gt + Yb -> Gc
++ Using small diagrams may also be useful
++ This section often leaves you with a bit more luxury time at the end. Take advantage of this to go back to the harder questions that you've flagged or guessed

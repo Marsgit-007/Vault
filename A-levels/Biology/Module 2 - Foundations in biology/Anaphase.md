@@ -1,0 +1,1 @@
+The sister chromatids are separated

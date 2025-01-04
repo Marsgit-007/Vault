@@ -1,0 +1,1 @@
+The mass of a product obtained from a reaction

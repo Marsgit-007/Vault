@@ -1,0 +1,1 @@
+is a disaccharide formed by the condensation of [[α glucose]] and galactose

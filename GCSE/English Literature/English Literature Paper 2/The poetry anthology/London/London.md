@@ -1,0 +1,5 @@
+[[Mind-forged manacles.png]]
+[[marks of weakness, marks of woe... In every cry... in every voice.png]]
+[[hapless soldier's sigh Runs in blood down palace walls.png]]
+[[And blights with plagues the marriage hearse.png]]
+[[Every black'ning church appals.png]]

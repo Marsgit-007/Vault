@@ -1,0 +1,1 @@
+as concentration of substrate increases, rate of reaction increases as more enzyme-substrate complexes are formed. However, beyond a certain point the rate of reaction no longer increases as enzyme concentration becomes the limiting factor

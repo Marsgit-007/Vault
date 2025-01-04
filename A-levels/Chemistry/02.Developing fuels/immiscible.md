@@ -1,0 +1,1 @@
+(of liquids) not forming a homogeneous mixture when mixed

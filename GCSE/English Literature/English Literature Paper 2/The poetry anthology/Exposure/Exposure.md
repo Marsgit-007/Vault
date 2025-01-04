@@ -1,0 +1,5 @@
+[[Our brains ache, in the merciless iced east winds that knive us....png]]
+[[Dawn massing in the east her melancholy army.png]]
+[[But nothing happens... what are we doing here.png]]
+[[Sudden successive flights of bullets streak the silence. Less deadly than the air.png]]
+[[mad gusts tugging on the wire like twitching agonies of men amongst its brambles.png]]

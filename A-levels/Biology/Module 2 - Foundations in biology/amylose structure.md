@@ -1,0 +1,2 @@
+Amylose coils into a spiral shape, with [[hydrogen bonds]] in place. Hydroxyl groups on carbon 2 are situated on the inside of the coil, making the molecule less soluble and allowing hydrogen bonds to form to maintain the coil's structure
+![[Pasted image 20241205061346.png]]

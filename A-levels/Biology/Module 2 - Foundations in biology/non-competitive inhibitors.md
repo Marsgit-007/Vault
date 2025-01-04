@@ -1,0 +1,1 @@
+Does not bind to the [[Active site]]; it binds at another site on the enzyme known as the allosteric site. Binding of the non-competitive inhibitors changes the shape of the active site therefore preventing the binding of the substrate. Increasing the concentration of substrate has no effect on non-competitive inhibition. 

@@ -1,0 +1,7 @@
+[[Addition of HBr]]
+[[Addition of H2SO4]]
+[[Addition of Br2]]
+[[Electrophilic addition to propene]]
+[[Direct hydration]]
+[[Hydrogenation]]
+[[Markownikoff's rule]]

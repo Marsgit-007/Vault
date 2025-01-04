@@ -1,0 +1,5 @@
+[[I am branded by an impression of sunlight.png]]
+[[time rolls its tanks.png]]
+[[I have no passport, there's no way back at all.png]]
+[[They mutter death, and my shadow falls as evidence of sunlight.png]]
+[[It may be sick with tyrants.png]]

@@ -1,0 +1,1 @@
+myosins, kinesins and dyneins, are molecular motors. They are also [[enzymes]] and have a site that binds to and allows [[hydrolysis]] of [[ATP]] as their energy souce

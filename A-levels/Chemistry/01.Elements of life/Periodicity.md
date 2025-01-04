@@ -1,0 +1,7 @@
+[[Periods]]
+[[Atomic radius]]
+[[electronegativity]]
+[[Ionisation energy]]
+[[Electrical conductivity]]
+[[Meting point and boiling point]]
+[[A comparison between period 2 and 3]]

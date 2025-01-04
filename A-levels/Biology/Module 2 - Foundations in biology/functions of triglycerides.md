@@ -1,0 +1,5 @@
++ **Energy source** - Triglycerides can be broken down in [[respiration]] to release energy and generate [[ATP]]. The first step is to hydrolyse the ester bonds, and then both glycerol and the fatty acids can be broken down completely to carbon dioxide and [[Water]]. Respiration of a [[Lipids]] produces more water than respiration of a [[sugars|sugar]]
++ **Energy store** - Because triglycerides are insoluble in [[Water]] they can be stored without affecting the water potential of the cell. Mammals store fat in adipose cells under the skin. One gram of fat releases twice as much energy as 1g of glucose. This is because lipids have a high proportion of hydrogen atoms than [[Carbohydrates]] and almost no oxygen atoms
++ **Insulation** - Adipose tissue is a storage location for lipid in whales ("blubber"), acting as a heat insulator. Lipid in nerve cells act as an electrical insulator. Animals preparing or hibernation store extra fat
++ **Buoyancy** - Because fat is less dense than water, it is used by aquatic animals to help them stay afloat
++ **Protection** - Humans have fat around delicate organs, such as their kidneys, to act as a shock absorber

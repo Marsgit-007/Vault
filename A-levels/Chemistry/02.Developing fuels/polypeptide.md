@@ -1,0 +1,1 @@
+many [[Amino acids]] joined together

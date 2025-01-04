@@ -1,0 +1,5 @@
+[[embarked at sunrise... a one-way journey into history.png]]
+[[fishing boats strung out like bunting on a green-blue translucent sea.png]]
+[[they treated him as though he no longer existed.png]]
+[[And sometimes, she said, he must have wondered which had been the better way to die.png]]
+[[a tuna, the dark prince, muscular, dangerous.png]]

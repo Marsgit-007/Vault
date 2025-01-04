@@ -1,0 +1,2 @@
+![[Pasted image 20241222214157.png]]
+Many elements (e.g. iron) have more than one valency. To avoid ambiguity, a number appears in brackets after the name e.g. Iron(III); this is the oxidation number and cna be used to give you the valency.

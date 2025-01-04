@@ -1,0 +1,1 @@
+is a disaccharide formed by the condensation of 2 beta glucose molecules

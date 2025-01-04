@@ -1,0 +1,1 @@
+A reducing sugar is one which can donate electrons and includes all [[Monosaccharides]] and some [[Disaccharides]]. 

@@ -1,0 +1,1 @@
+rigid outer covering made of peptidoglycan/muerin

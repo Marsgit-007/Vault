@@ -1,0 +1,7 @@
+[[Element]]
+[[Atom]]
+[[Molecule]]
+[[Ion]]
+[[symbol]]
+[[formula]]
+[[valency]]

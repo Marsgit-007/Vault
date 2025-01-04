@@ -1,0 +1,1 @@
+The smallest part of an [[Element]] that can take part in a chemical reaction

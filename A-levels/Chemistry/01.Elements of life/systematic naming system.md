@@ -1,0 +1,1 @@
+based on agreed set of rules (I.U.P.A.C); exact structure can be found from name (and vice versa)

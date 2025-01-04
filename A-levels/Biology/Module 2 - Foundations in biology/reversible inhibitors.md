@@ -1,0 +1,1 @@
+bind to the [[Active site]] through [[hydrogen bonds]] and weak [[Ionic bonding examples|ionic interactions]] therefore they do not bind permanently. Reversible inhibitors can either be [[competitive inhibitors|competitive]] or [[non-competitive inhibitors|non-competitive]]

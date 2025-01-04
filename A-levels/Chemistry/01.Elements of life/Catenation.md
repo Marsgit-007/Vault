@@ -1,0 +1,1 @@
+The ability to form bonds between atoms of the same element. Carbon catenates to form chains and rings, with single, double or triple covalent bonds

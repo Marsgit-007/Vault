@@ -1,0 +1,1 @@
+The closeness of agreement between independent measurements obtained under the same conditions. It depends only on the distribution of random errors (i.e. the spread of measurements) and does not relate to the true value

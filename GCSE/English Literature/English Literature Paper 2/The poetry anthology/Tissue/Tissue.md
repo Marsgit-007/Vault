@@ -1,0 +1,6 @@
+[[Paper that lets the light shine through.png]]
+[[If buildings were paper... how easily they fall away on a sigh, a shift.png]]
+[[thinned to be transparent turned into your skin.png]]
+[[what was paid by credit card might fly our lives like paper kites.png]]
+[[the Koran...histories...buildings...maps...the shapes that pride can make...never meant to last.png]]
+[[but let the daylight break through capitals and monoliths.png]]

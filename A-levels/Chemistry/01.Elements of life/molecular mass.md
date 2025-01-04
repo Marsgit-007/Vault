@@ -1,0 +1,1 @@
+Nowadays [[Mass Spectrometry]] is used. The position of the last m/z signal is due to the molecular ion and gives the molecular mass. The fragmentation pattern also gives information about the compound

@@ -1,0 +1,6 @@
+[[General formulae]]
+[[Molecular formulae]]
+[[Empirical formulae]]
+[[structural formulae]]
+[[displayed formulae]]
+[[skeletal formulae]]

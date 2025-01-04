@@ -1,0 +1,1 @@
+Are [[non-polar bond|non-polar]] so are [[immiscible]] with water but soluble in most organic solvents

@@ -1,0 +1,1 @@
+Are a component of DNA and ATP

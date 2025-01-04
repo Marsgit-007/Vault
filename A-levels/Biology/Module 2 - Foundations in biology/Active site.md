@@ -1,0 +1,1 @@
+is the area of the enzyme where the reaction with the substrate takes place. 

@@ -1,0 +1,1 @@
+A substance which cannot be split into anything simpler by chemical means

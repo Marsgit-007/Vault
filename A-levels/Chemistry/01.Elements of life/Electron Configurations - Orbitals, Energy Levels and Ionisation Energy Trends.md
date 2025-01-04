@@ -1,0 +1,2 @@
+[[Electronic configurations]]
+[[Ionisation energy]]

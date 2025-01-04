@@ -1,0 +1,1 @@
+Orbitals of the same energy remain singly occupied before pairing up. This is due to the **repulsion between electron pairs**

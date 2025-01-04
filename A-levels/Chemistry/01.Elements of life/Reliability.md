@@ -1,0 +1,1 @@
+The opposite of uncertainty; high uncertainty = not a very reliable measurement

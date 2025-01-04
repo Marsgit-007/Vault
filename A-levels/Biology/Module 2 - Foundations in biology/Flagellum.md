@@ -1,0 +1,3 @@
+A tail like structure which rotates to move the cell
+![[Pasted image 20250102115346.png]]
+Running through the centre we find 9 pairs of [[microtubules]] arranged in circle, with another pair of microtubules in the centre. Scientists call this the 9+2 structure. Using energy from [[ATP]], the pairs of microtubules can move relative to the pairs next to them, and this can create bending motion of these organelles. 

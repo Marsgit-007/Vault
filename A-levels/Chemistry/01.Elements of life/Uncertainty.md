@@ -1,0 +1,1 @@
+An estimate attached to a measurement which characterises the range of values within which the true value is said to lie. It is written, for example as 44.0 ± 0.4

@@ -1,0 +1,1 @@
+The [[nuclear envelope]] reforms, creating 2 daughter cells. The spindle is broken down and subsequently disappears. the [[chromosomes]] uncoil

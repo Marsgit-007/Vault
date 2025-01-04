@@ -1,0 +1,1 @@
+Plants have a [[Cellulose cell wall]] while fungi have a [[chitin]] cell wall

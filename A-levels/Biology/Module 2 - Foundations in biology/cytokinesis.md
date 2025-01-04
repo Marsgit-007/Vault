@@ -1,0 +1,1 @@
+during cytokinesis the parent and replicated organelles move to opposite sides of the cell and the [[cytoplasm]] divides thus producing 2 daughter cells

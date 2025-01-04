@@ -1,0 +1,1 @@
+is a disaccharide formed by condensation of two alpha glucose molecules

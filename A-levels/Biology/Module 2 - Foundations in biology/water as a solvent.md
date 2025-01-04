@@ -1,0 +1,2 @@
+It is a solvent in which many metabolic reactions occur
+It is a good solvent for ionic solutes such sodium chloride and covalent solutes such as [[glucose]]. The water molecules cluster around these charged parts of the solute molecules or ions, and will help to separate them and keep them apart. At this point they dissolve and a solution is formed

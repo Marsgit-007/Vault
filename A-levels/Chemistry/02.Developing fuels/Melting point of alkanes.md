@@ -1,0 +1,1 @@
+A general increase with molecular mass BUT not as regular as for boiling point

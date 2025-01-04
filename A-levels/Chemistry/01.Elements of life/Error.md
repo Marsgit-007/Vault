@@ -1,0 +1,1 @@
+The difference between and individual measurement and the true value (or accepted reference value) of the quantity being measured

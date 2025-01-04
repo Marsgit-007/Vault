@@ -1,0 +1,1 @@
+examples include heavy metal ions such as mercury and silver which cause disulphide bonds within the [[Proteins|protein]] structure to break, as a result causing the shape of the [[Active site]] to change, thus affecting protein activity. Other examples include cyanide which is a nerve gas that covalently binds to the active site, therefore preventing the binding of the substrate

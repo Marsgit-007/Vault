@@ -1,0 +1,11 @@
+- **Description**:
+    - In this model, the parental DNA molecule remains completely intact during replication.
+    - A new DNA molecule is formed that consists entirely of newly synthesized strands.
+- **Outcome**:
+    - After one round of replication, there would be one molecule of entirely old (parental) DNA and one molecule of entirely new DNA.
+    - After two rounds, there would be one parental molecule and three entirely new molecules.
+- **Diagram Representation**:
+    - **Generation 1**: Original → (Old, Old) + (New, New)
+    - **Generation 2**: (Old, Old) + (New, New) + (New, New) + (New, New)
+- **Significance**:
+    - This model was proposed but is not observed in nature.

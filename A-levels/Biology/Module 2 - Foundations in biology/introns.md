@@ -1,0 +1,1 @@
+Sections of [[DNA]] that do not code for [[Proteins]]

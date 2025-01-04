@@ -1,0 +1,1 @@
+The rate of reaction increases as [[enzymes|enzyme]] concentration increases as there are more active sites for substrates to bind to, however increasing the enzyme concentration beyond a certain point has no effect on the rate of reaction as there are more active sites than substrates so substrate concentration becomes the limiting factor

@@ -1,0 +1,1 @@
+There are 2 stages of protein synthesis. [[Transcription]] which occurs in the nucleus and involves [[DNA]] and mRNA and [[Translation]] which involves mRNA, tRNA and [[ribosomes]]. During transcription, DNA strand is transcribed into mRNA and translation is the process during which [[Amino acids]] are assembled together to form a polypeptide chain protein

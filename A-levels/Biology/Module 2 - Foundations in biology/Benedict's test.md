@@ -1,0 +1,1 @@
+For [[sugars]]. An alkaline solution of blue copper (II) sulphate is added to the sugar and subsequently heated, in the presence of reducing sugar, a red precipitate of copper (I) oxide is formed. In the absence of reducing sugar, the Benedict's reagent does not change colour.

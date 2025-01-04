@@ -1,0 +1,4 @@
+- Do not have a free aldehyde or ketone group.
+- Cannot act as reducing agents.
+- Include most disaccharides and simple polysaccharides.
+- Give negative reactions for Fehling’s and Benedict’s tests.
