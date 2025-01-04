@@ -1,6 +1,8 @@
 [[UCAT NOTES by KharmaMedic.pdf]]
 [[How to prepare for UCAT]]
 
+
+
 | Section                    | Questions | Timing  | Time per question | Scoring  |
 | -------------------------- | --------- | ------- | ----------------- | -------- |
 | [[Verbal reasoning]]       | 44        | 22 mins | 30 sec            | 300-900  |
