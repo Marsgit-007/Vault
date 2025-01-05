@@ -2,4 +2,6 @@ Triglycerides are lipids made of one molecule of glycerol and three fatty acids 
 
 ![[Pasted image 20241003091641.png]]
 
+[[Formation of triglycerides]]
+
 [[functions of triglycerides]]

@@ -2,4 +2,5 @@ Carbohydrates are molecules which consist only of carbon, hydrogen and oxygen an
 
 [[Monosaccharides]]
 [[Disaccharides]]
+[[oligosaccharide]]
 [[Polysaccharides]]

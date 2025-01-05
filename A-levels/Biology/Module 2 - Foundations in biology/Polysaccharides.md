@@ -4,3 +4,4 @@ Polysaccharides are formed from many [[glucose]] units joined together and inclu
 + [[Cellulose]] formed by the condensation of [[β glucose]]
 + [[Bacterial cell walls]]
 + [[exoskeletons]]
+[[Properties of polysaccharides]]
