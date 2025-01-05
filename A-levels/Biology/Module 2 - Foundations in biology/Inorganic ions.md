@@ -5,3 +5,5 @@ Some of the essential ions include:
 + [[iron ions]]
 + [[Sodium ions]]
 + [[Phosphate ions]]
++ [[calcium ions]]
++ [[potassium ions]]
