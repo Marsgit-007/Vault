@@ -1,0 +1,3 @@
+Photochemical smog causes haziness and reduced visibility in the air close the ground. For many people they can cause eye and nose irritation and some difficult in breathing in vulnerable groups, such as asthmatics who already have respiratory problems, very young children, and many older people, this effect can be enhanced.  
+
+High ozone concentrations affect animals and plants too. Ozone is a highly reactive substance that attacks most organic matter. Compounds with carbon-carbon double bonds are particularly vulnerable so many materials such as plastics, rubbers, textiles and paints can be damageed.

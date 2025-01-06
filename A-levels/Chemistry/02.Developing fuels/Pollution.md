@@ -4,4 +4,5 @@ Processes involving combustion give rise to a variety of pollutants
 *Removal*
 ![[Pasted image 20250102201217.png]]
 
+[[Photochemical smog]]
 [[Catalytic converters]]
