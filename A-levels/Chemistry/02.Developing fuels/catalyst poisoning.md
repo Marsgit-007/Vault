@@ -1,0 +1,5 @@
+Catalysts can be poisoned so that they no longer function properly. Many substances which are poisonous to humans operate as a catalyst poison, blocking an [[enzymes|enzyme]] catalysed reaction
+
+In [[Heterogeneous catalysis]], the poison molecules are adsorbed more strongly to the catalyst surface than the reactant molecules. The catalyst cannot catalyst a reaction of the poison and so becomes inactive, with poison molecules blocking the [[Active site|active sites]] on its surface. This is the reason why leaded petrol cannot be used in cars fitted with a catalytic converter - lead is strongly adsorbed to the surface of the catalyst. 
+
+Catalytic poisoning is also the reason why it is not possible to replace the very costly metals (platinum and rhodium) in catalytic converters by cheaper metals (such as copper and nickel). These metals are vulnerable to poisoning by trace amounts of sulfur dioxide present in car exhaust gases. Once the catalyst in a converter becomes inactive it cannot be regenerated. a new converter has to be fitted and this can be very costly. 

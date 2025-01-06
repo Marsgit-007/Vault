@@ -1,0 +1,1 @@
+if the reactants and catalysts are in the same physical state (e.g. both are in aqueous solution) then the reaction is said to involve homogeneous catalysis. [[enzymes|Enzyme]] catalysed reactions in cells take place in aqueous solutions and are examples of homogenous catalysts

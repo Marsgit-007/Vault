@@ -13,5 +13,5 @@ Although polymers derived from [[Alkenes]] are invaluable to modern society, the
 
 **Feedstock**
 + use the waste for the production of useful organic compounds
-+ new technology can convert waste into hydrocarbons
-+ hydrocarbons can then be turned back into polymers
++ new technology can convert waste into [[hydrocarbons]]
++ [[hydrocarbons]] can then be turned back into polymers

@@ -4,7 +4,7 @@
 ![[Pasted image 20250103160000.png]]
 
 [[Enthalpy change of reaction]]
-[[Enthalpy change of combustion]]
-[[Enthalpy change of formation]]
-[[Enthalpy change of neutralisation]]
+[[Standard Enthalpy change of combustion]]
+[[Standard Enthalpy change of formation]]
+[[Standard Enthalpy change of neutralisation]]
 [[Bond dissociation enthalpy]]

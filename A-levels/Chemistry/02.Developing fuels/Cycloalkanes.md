@@ -1,0 +1,2 @@
+As well as open-chain [[Alkanes]], it is also possible for alkane molecules with cyclic structures to exist. These molecules are called cycloalkanes and have the general formula![[Pasted image 20250106113649.png]]. They have 2 fewer hydrogen atoms than the corresponding alkane, because there are no -CH3 groups at the ends of the chain. 
+![[Pasted image 20250106113742.png]]
