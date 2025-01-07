@@ -1,0 +1,3 @@
+Extrinsic [[Proteins]] do not span the [[fluid mosaic model|membrane]]. Instead they are found on one side of the membrane or the other and sometimes they are attached to [[intrinsic proteins]]. Extrinsic proteins have a range of functions. some play a structural role within the membrane while others can act as [[enzymes]] and some are receptors for other molecules such as [[hormones]]. 
+
+![[Pasted image 20250107062246.png]]

@@ -1,0 +1,1 @@
+are intrinsic [[proteins]] and these contain a channel through the centre. The channel is lined with hydrophilic [[amino acids]] and is filled with [[water]] molecules. Protein channels allow water soluble molecules and ions to [[Diffusion|diffuse]] through. 

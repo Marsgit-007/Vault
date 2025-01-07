@@ -1,0 +1,4 @@
+A [[channel proteins|channel protein]] is a [[Proteins|protein]] with a central pore. This pore or channel is lined with hydrophilic [[Amino acids]] and contains [[Water]]. Hydrophilic substances can pass through the channel from one [[fluid mosaic model|membrane]] to the other
+![[Pasted image 20250107065056.png]]
++ Firstly protein channels  are selective for the chemical than can pass through. That means that only certain chemicals can pass through each type of protein channel
++ Secondly while some types of protein channels are always open, other protein channels only open in response to a certain trigger. This could be a chemical binding to the protein channel such as a neurotransmitter or a change in voltage across the membrane

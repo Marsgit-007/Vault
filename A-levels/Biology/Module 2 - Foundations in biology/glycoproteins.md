@@ -1,0 +1,1 @@
+a [[Carbohydrates|carbohydrate]] chain attached to a [[Proteins|protein]] molecule. Some allows cells to attach to each other to form tissues such as nervous tissue. Others play a role in the immune system presenting antigens to T cells. Others act as receptors to [[hormones]]. 

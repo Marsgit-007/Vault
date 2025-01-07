@@ -1,0 +1,1 @@
+a [[Carbohydrates|carbohydrate]] chain attached to a [[Lipids|lipid]]. Often used when cells come into contact with each other. The glycolipids on the surface of one cell can be recognised by another cell and this can be determine whether cells come into contact. Glycolipids can also act as [[antigens]] for example in determining your blood group
