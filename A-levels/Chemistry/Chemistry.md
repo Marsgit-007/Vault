@@ -1,5 +1,6 @@
 [[chemistry specification.pdf]]
 [[chemistry textbook]]
+[[Chemistry data sheet.pdf]]
 
 [[Practical skills]]
 Storylines:
