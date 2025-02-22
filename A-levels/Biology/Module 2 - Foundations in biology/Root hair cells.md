@@ -1,0 +1,1 @@
+specialised epidermal cells found in close proximity to root tips. They have thin and long extensions which serve for the purpose fo increasing surface area and maximising the contact with [[Water]] which contains essential mineral ions which are absorbed through the roots. They are short-lived and are constantly produced in the root tip

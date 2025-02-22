@@ -1,0 +1,1 @@
+Found in pairs in the epidermis of leaves and are involved in controlling the opening and closing of the stomata. Guard cells contain [[Chloroplasts]] whereas epidermal cells do not. They respond to [[Water]] influx which causes them to alter their shape, causing stoma to open. 

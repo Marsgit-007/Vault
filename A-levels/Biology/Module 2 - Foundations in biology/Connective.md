@@ -1,0 +1,1 @@
+Involved in providing support and holding various structures together, examples include [[cartilage]] and bone

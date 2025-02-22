@@ -1,0 +1,1 @@
+During Meiosis 2 composed of prophase 2, metaphase 2, anaphase 2 and telophase2, another round of cell division occurs, leading to formation of 4 [[haploid]] daughter cells, containing single [[chromosomes]]. It is during Anaphase 2 that the centromeres split separating chromatids

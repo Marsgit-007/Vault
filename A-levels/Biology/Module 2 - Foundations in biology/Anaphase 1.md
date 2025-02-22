@@ -1,0 +1,1 @@
+The homologous [[chromosomes]], the homologous chromosomes separate 

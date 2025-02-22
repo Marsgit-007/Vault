@@ -1,0 +1,1 @@
+Male gametes, made in the testes throughout a man's life, they are adapted to reach, penetrate and fertilise the ovum i.e. the female gamete

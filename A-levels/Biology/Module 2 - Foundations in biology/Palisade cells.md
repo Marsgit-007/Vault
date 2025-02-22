@@ -1,0 +1,1 @@
+most basic plant cell type, contain many chloroplasts and are specialised for [[photosynthesis]]
