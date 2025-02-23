@@ -1,0 +1,1 @@
+The minimum amount of energy required for reactants to react

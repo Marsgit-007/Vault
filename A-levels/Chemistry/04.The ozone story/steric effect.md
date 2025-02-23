@@ -1,0 +1,1 @@
+Particles must approach each other in a certain relative way
