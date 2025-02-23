@@ -1,0 +1,61 @@
+# 23/2/25 (Sunday)
+- Wake up =
+- Toilet =
+- Eat breakfast =
+- Wash dishes +
+- Read +
+- Check phone -
+- Anki +
+- Internet -
+- UCAT training +
+- UCAT qr +
+- Brush teeth =
+- Wash face =
+- Obsidian biology +
+- Book+ 
+- Obsidian biology +
+- Phone -
+- Obsidian biology +
+- Change =
+- Church =
+- Change =
+- Breakfast =
+- Water +
+- Duolingo +
+- Obsidian bio +
+- Internet -
+- Obsidian chem +
+- Chem study minds +
+- Read +
+- Sainsbury's =
+- Read +
+- Hoover +
+- Read +
+- Game +
+- Food =
+- Read +
+- Prayers =
+- Hair oil +
+- Wash bottle +
+- Polish shoe +
+- Brush teeth =
+- Get fresh clothes +
+- Shave +
+- Shower +
+- Wash face +
+- Hair food +
+- Face cream +
+- Get school clothes +
+- Organise maths folder +
+- Pack bag+
+- Change bed sheets+
+- Moist hand +
+- Update scoreboard+
+- Read +
+- Bed =
+- **+ (Plus)**: 29
+- **- (Minus)**: 4
+- **= (Equals)**: 15
+
+# 24/2/25
++ 
