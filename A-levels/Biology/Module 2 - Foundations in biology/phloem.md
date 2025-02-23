@@ -1,1 +1,3 @@
 Tubes made of living cells which are involved in translocation which is the movement of food substances and nutrients from leaves to storage organs and growing plants of the plant. The [[meristem]] tissue produces cells that elongate and line up end-to-end to form a long tube. Their ends do not break down completely but produce perforated structures known as sieve plates. Metabolically active companion cells are located next to sieve plates and are involved in mediating the movement of [[photosynthesis]] products upwards and downwards in the tubes
+
+[[Features of phloem vessel]]

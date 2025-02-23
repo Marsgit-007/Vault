@@ -1,0 +1,1 @@
+[[Muscle]]s between the [[ribs]]. Contraction of the external intercostal muscles raises the rib cage

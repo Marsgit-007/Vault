@@ -2,5 +2,3 @@ Stem cells are undifferentiated cells which are genetically identical and have t
 
 The process by which a cell specialised to carry out a particular function is known as differentiation. Stem cells can be found in the bone marrow where they differentiate into [[erythrocytes]] and [[neutrophils]].  
 Plants retain their ability to differentiate into different types of cells throughout their life. Division of plant cells occurs at a high rate in [[meristem]]. Dividing meristem cells are known as the [[cambium]] and give rise to [[xylem]] and [[phloem]] tissue
-
-[[Specialised cells]]

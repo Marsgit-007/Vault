@@ -1,0 +1,5 @@
++ [[cartilage]]
++ [[Ciliated epithelium]]
++ [[goblet cells]]
++ [[smooth muscle]]
++ [[Elastic fibres]]

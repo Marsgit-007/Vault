@@ -1,0 +1,4 @@
+- **Mouth Closes** – The fish closes its mouth to prevent water from escaping.
+- **[[Buccal Cavity]] Raises** – The floor of the buccal (mouth) cavity moves upward, decreasing the volume and increasing the pressure.
+- **[[Water]] is Forced Over the Gills** – The increased pressure pushes water over the [[gill filaments]], where oxygen diffuses into the blood, and carbon dioxide diffuses out.
+- **[[Operculum]] Opens** – The operculum (gill cover) opens, allowing the deoxygenated water to exit the fish’s body.

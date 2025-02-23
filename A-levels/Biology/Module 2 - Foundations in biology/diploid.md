@@ -1,0 +1,1 @@
+A diploid cell is a cell that has two complete sets of [[chromosomes]], one from each parent.

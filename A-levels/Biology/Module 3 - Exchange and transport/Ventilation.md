@@ -1,0 +1,1 @@
+The flow of air in and out of the [[alveoli]] is referred to as ventilation and is composed of 2 stages: [[inhalation|inspiration]] and [[exhalation|expiration]]. This process occurs with the help of 2 sets of [[Muscle|muscles]], the [[intercostal muscles]] and [[diaphragm]].

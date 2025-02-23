@@ -1,0 +1,1 @@
+the number of breaths per minute, can be calculated from the spirometer trace by counting the number of peaks or troughs in a minute

@@ -2,3 +2,7 @@
 [[Palisade cells]]
 [[Root hair cells]]
 [[Guard cells]]
+[[erythrocytes]]
+[[neutrophils]]
+[[Guard cells]]
+[[Palisade cells]]

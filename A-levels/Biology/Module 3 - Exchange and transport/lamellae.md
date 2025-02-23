@@ -1,0 +1,1 @@
+(Sometimes called secondary lamellae); folds of the filament to increase surface area. They are also called gill plates

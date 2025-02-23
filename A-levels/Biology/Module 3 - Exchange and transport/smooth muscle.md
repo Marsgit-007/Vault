@@ -1,0 +1,1 @@
+Their ability to contract enables them to play a role in constricting the airway, thus controlling its diameter as a result and thus controlling the flow of air to and from the [[alveoli]] 

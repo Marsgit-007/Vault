@@ -1,0 +1,1 @@
+Tiny folds of the lung [[epithelial|epithelium]] to increase the surface area

@@ -1,0 +1,1 @@
+The diaphragm is a dome-shaped [[muscle]] that separates the chest cavity from the abdominal cavity. It is the principal muscle of respiration, playing a crucial role in [[inhalation|inhaling]] and [[exhalation]] by contracting and relaxing to change the pressure in the thoracic cavity

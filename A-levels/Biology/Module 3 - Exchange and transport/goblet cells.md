@@ -1,0 +1,1 @@
+Cells present in the [[trachea]], [[bronchi]] and [[bronchioles]] involved in mucus secretion to trap [[bacteria]] and dust to reduce the risk of infection with the help of [[lysozyme]] which digests bacteria 

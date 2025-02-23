@@ -1,0 +1,1 @@
+Stretch when we [[inhalation|inhale]] and recoil when we [[exhalation|exhale]], thus controlling the flow of air

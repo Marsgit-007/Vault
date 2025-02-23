@@ -1,0 +1,1 @@
+each of a series of slender curved bones articulated in pairs to the spine (twelve pairs in humans), protecting the thoracic cavity and its organs

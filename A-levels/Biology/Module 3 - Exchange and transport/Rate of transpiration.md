@@ -1,0 +1,2 @@
+The rate of transpiration can be investigated with the help of a potometer where [[Water]] vapour lost by the leaf is replaced by water in the capillary tube. Therefore, measuring the movement of the meniscus can be used to determine the rate of transpiration. 
+[[Factors which affect the rate of transpiration]]

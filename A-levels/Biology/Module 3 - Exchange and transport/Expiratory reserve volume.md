@@ -1,0 +1,1 @@
+The additional volume of air that can be [[exhalation|exhaled]] on top of the [[Tidal volume]]

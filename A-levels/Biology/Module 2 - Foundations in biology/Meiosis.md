@@ -2,3 +2,4 @@ A form of cell division that gives rise to genetic variation. The main role of m
 + [[crossing over]]
 + [[Independent assortment]]
 [[Stages of meiosis]]
+

@@ -1,0 +1,4 @@
+- **Mouth Opens** – The fish opens its mouth to allow water to enter.
+- **[[Buccal Cavity]] Lowers** – The floor of the buccal (mouth) cavity moves downward, increasing the volume and decreasing the pressure.
+- **[[Water]] Flows In** – Due to the lower pressure inside the mouth, water flows in from the environment.
+- **[[Operculum]] Stays Closed** – The operculum (gill cover) remains closed to prevent water from escaping too early.

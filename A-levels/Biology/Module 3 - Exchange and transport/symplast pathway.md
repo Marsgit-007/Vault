@@ -1,0 +1,1 @@
+Where [[Water]] enters the [[cytoplasm]] through the [[plasma membrane]] and passes from one cell to the next through [[plasmodesmata]], the channels which connect the cytoplasm from one cell to the next. 

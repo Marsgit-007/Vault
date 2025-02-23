@@ -1,0 +1,1 @@
+Slender branches of tissue that make up the gill. They are often called primary [[lamellae]]

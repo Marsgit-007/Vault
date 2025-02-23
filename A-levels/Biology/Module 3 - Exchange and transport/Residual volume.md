@@ -1,0 +1,1 @@
+The volume of air which is always present in the [[lungs]] is known as the residual volume. The [[Tidal volume]] can be exceeded, in cases such as during exercise where the inspiratory reserve volume is reached in an attempt to increase amount of air breathed in. 

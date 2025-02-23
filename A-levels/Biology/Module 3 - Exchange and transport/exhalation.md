@@ -1,0 +1,1 @@
+During expiration, the internal [[intercostal muscles]] contract whereas the external ones relax before lowering the [[ribs]]. The [[diaphragm]] relaxes and rises upwards. These actions in combination decrease the volume inside the [[thorax]], therefore increasing the pressure, forcing the air out of the lungs

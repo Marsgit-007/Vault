@@ -1,0 +1,1 @@
+Blood flows along the gill arch and out along the filaments to the secondary [[lamellae]]. The blood then flows through [[capillaries]] in the opposite direction to the flow of [[Water]] of the lamellae. This arrangement creates a counter current flow that absorbs the maximum amount of oxygen from the water

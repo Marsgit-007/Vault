@@ -1,0 +1,1 @@
+Involved in supporting the [[trachea]] and [[bronchi]], plays an important role in preventing the [[lungs]] from collapsing in the event of pressure drop during [[exhalation]]

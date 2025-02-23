@@ -1,0 +1,1 @@
+Smaller airways leading into the lungs

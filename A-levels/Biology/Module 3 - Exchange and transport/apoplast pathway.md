@@ -1,0 +1,2 @@
+Where [[Water]] moves through the water filled spaces between the [[Cellulose]] molecules in the [[cell wall]]s. In this pathway, water doesn't pass through any [[plasma membrane]]s, therefore it can carry dissolved mineral ions and salts. When the water reaches a part of the root called the [[endodermis]], it encounters a layer of suberin which is known as the [[Casparian strip]], which cannot be penetrated by water
+

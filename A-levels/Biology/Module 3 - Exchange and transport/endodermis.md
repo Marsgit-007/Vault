@@ -1,0 +1,1 @@
+An outer layer of cells which supply [[xylem]] vessels with [[Water]]
