@@ -58,4 +58,45 @@
 - **= (Equals)**: 15
 
 # 24/2/25
-+ 
+- Wake up =
+- Toilet =
+- Stretch +
+- Breakfast =
+- Floss +
+- Brush teeth =
+- Fill water +
+- Anki +
+- Ucat training +
+- Ucat Qr +
+- Mentorverse Wex +
+- Face +
+- Make lunch =
+- Change =
+- Vaseline +
+- Hands  +
+- Check targets +
+- School =
+- Wash lunchbox + 
+- Fill water +
+- Change + hang
+- Duolingo + 
+- Food =
+- Phone -
+- Bio exam qs +
+- Bio anki update +
+- Internet  -
+- Read +
+- Prayers =
+- TV -
+- Shower +
+- Face +
+- Vaseline +
+- Wex notes +
+- Cream +
+- Read + 
+- Sleep =
+- **+ (Plus)**: 21
+- **- (Minus)**: 3
+- **= (Equals)**: 10
+
+
