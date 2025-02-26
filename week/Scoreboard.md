@@ -99,4 +99,34 @@
 - **- (Minus)**: 3
 - **= (Equals)**: 10
 
+# 25/2/25
+- Wake up =
+- Toilet =
+- Stretch +
+- Breakfast  =
+- Wash dish +
+- Get water + 
+- Bio vids +
+- Internet  -
+- Fill water + 
+- Face +
+- Cream +
+- Vaseline +
+- Hand +
+- Hair +
+- School =
+- Hw club +
+- Badminton + 
+- Change =
+- Food =
+- Maths hw +
+- Internet  -
+- Food =
+- Prayers =
+- Face +
+- Hands +
+- Sleep =
+- **+ (Plus)**: 14
+- **- (Minus)**: 2
+- **= (Equals)**: 8
 
