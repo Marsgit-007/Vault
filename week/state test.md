@@ -7,6 +7,8 @@ graph TD
     E[🍽️ Eating]
     F[📱 Checking Phone]
     G[🪑 After Sitting on Desk]
+    
 ```
+
 
 

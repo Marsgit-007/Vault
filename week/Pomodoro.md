@@ -1,4 +1,5 @@
-Using the **Cue, Craving, Response, Reward** framework from *Atomic Habits* by James Clear is a great way to build the habit of starting your Pomodoro timer before studying. Here's how you can apply it to your situation:
+
+Using the **Cue, Craving, Response, Reward** framework from *Atomic Habits* by James Clear is a great way to build the habit of starting your Pomodoro timer before studying. Here's how you can apply it to your situation: 
 
 ---
 
